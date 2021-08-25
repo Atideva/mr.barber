@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac00951f3a12df49a81126ad5b64e54, type: 3}
+  m_Name: Mouth human (list)
+  m_EditorClassIdentifier: 
+  mouth:
+  - {fileID: 21300000, guid: 380cf9b0e9517c04c9bea7e680a8769d, type: 3}
+  - {fileID: 21300000, guid: c75347e85a9e43846b69ef48eda14c88, type: 3}
+  mouth_womans:
+  - {fileID: 21300000, guid: f04986a3df9598849b415e97101826e1, type: 3}
+  - {fileID: 21300000, guid: b442bcb710d58364d8fc6eeb3d22bca7, type: 3}
