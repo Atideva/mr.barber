@@ -35,17 +35,16 @@ SpriteAtlas:
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
       serializedVersion: 2
-      padding: 4
+      padding: 8
       blockOffset: 1
       allowAlphaSplitting: 0
-      enableRotation: 1
-      enableTightPacking: 1
+      enableRotation: 0
+      enableTightPacking: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 7e10e6a10f254534d88d9e520d99bece, type: 3}
     - {fileID: 102900000, guid: 41b987f1d9b7d13458d2856882d2030a, type: 3}
-    totalSpriteSurfaceArea: 1669314
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}

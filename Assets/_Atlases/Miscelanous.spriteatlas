@@ -35,18 +35,17 @@ SpriteAtlas:
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
       serializedVersion: 2
-      padding: 4
+      padding: 8
       blockOffset: 1
       allowAlphaSplitting: 0
-      enableRotation: 1
-      enableTightPacking: 1
+      enableRotation: 0
+      enableTightPacking: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 25fc0683659f3a04d93b44e8db82cbc4, type: 3}
     - {fileID: 102900000, guid: 5b96fc1acbd62f14796257898ff7d448, type: 3}
     - {fileID: 2800000, guid: 88273f4fffd438f4e8c783aeb7ea5351, type: 3}
-    totalSpriteSurfaceArea: 1454861
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -67,6 +66,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6da5848603bb51e46bb1fa155caeb335, type: 3}
   - {fileID: 21300000, guid: 3c7c10c67f2a232409dd1716b15330d4, type: 3}
   - {fileID: 21300000, guid: f61767c6acc9f7b4e8e1d7a393a44bfc, type: 3}
+  - {fileID: 21300000, guid: 6eb78137ca2841544a30eab4f96bdf4b, type: 3}
   - {fileID: 21300000, guid: 758519a71d5c2c148bf2712d5cfd61ed, type: 3}
   - {fileID: 21300000, guid: 07162c090bc790c4983d1560407bcf4e, type: 3}
   - {fileID: 21300000, guid: 1768c8493a11e0b458005369eb242604, type: 3}
@@ -106,6 +106,7 @@ SpriteAtlas:
   - vibrate
   - whistle_yellow
   - reloadButton
+  - scissors
   - whistle_red
   - flare200
   - palm4

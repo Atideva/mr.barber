@@ -24,11 +24,16 @@ public class PrivacyPolicy_accept : MonoBehaviour
         StartCoroutine(moveShip());
         //txt.enabled = false;
         txtFlash.enabled = false;
-        txt.color = clr;
-
+ 
+Invoke(nameof(ChangeColor),0.35f);
         PlayerPrefs.SetInt(key, 1);
     }
-
+    
+void ChangeColor()
+{
+    
+    txt.color = clr;
+}
     IEnumerator moveShip()
     {
         float speed = dist / time;
